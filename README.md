@@ -1,16 +1,23 @@
-## Hi there 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<!--
-**glamprinakis/glamprinakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><samp>Hi 👋, I'm Giorgos </samp></h1>
+<h3 align="center"><samp>Cloud and DevOps Engineer</samp></h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+📫 <b><samp>How to reach me:</b> <a href = "mailto: glamprinakis1@gmail.com">glamprinakis1@gmail.com</samp></a>
+</p>
+
+<h4 align="center"><samp>More about me:</samp></h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/georgios-lamprinakis/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48px" style="margin-right: 10px;"/>
+  </a>
+</p>
+
+<hr>
+
+| <samp>Programming Languages</samp> | <samp>DevOps & Cloud Technologies</samp> | <samp>Methodologies</samp> |
+| ------------- | ------------- | ------------- |
+| [![My Skills](https://skillicons.dev/icons?i=py,c,cs,js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,kafka,githubactions)](https://skillicons.dev) | DevOps, Agile, GitOps, CI/CD, IaC |
