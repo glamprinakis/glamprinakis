@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<h1 align="center"><samp>Hi 👋, I'm Giorgos </samp></h1>
+<h1 align="center"><samp>Hi 👋, I'm Georgios </samp></h1>
 <h3 align="center"><samp>Cloud and DevOps Engineer</samp></h3>
 
 
